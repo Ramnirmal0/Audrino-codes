@@ -1,0 +1,51 @@
+//how to use pi
+
+connect a charge port
+and ethernet
+
+go to open network and sharing
+
+a ethernet will display 
+
+select property and use a ip address : 192.168.137.?
+
+and enter a ip adress which is present on card
+
+use card more than 8gb and 10 class cycle 
+
+install  putty_64 
+login as : pi
+password : raspberry
+ and enjoyy
+
+
+install tightvnc-2.7.10 setup 64bit
+
+
+go to puddy
+AND TYPE tightvncserver
+
+
+
+recieve a message
+Starting applications specified in /home/pi/.vnc/xstartup
+Log file is /home/pi/.vnc/raspberrypi:1.log    
+
+// raspberrypi:(1 is a port)
+
+
+open tightvcc viewer
+do not use password
+set port : 192.137.168.2:1
+
+
+and u will see rasperry window
+
+install win32 Diskimager
+install os from rasperry
+and write the file to disk using win 32 diskimager
+
+
+to exit full screen
+
+ctrl+alt+shift+f
