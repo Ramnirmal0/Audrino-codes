@@ -1,5 +1,16 @@
+/*
+MQ A4 D7
+MQ3 A0 D8
+SOIL A5
+
+
+
+*/
+
+
+
 /* MQ-3 Alcohol Sensor Circuit with Arduino */
-int analog_IN = A4;  // This is our input pin
+int analog_IN = A4;  // This is our input pin    
 
 const int AOUTpin = 0; //the AOUT pin of the alcohol sensor goes into analog pin A0 of the arduino
 const int DOUTpin = 8; //the DOUT pin of the alcohol sensor goes into digital pin D8 of the arduino
